@@ -4,6 +4,7 @@
 🧡 I enjoy traveling, camping. 🌎🛫
 
 ## Skills
+<div>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-57BCAD?style=plastic&logo=&logoColor=white"/>
@@ -13,14 +14,16 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/>
-
+</div>
 
 ## Tools
+<div>
 <img src="https://img.shields.io/badge/intellij%20IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=plastic&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-05032?style=plastic&logo=git&logoColor=white"/>
-
+</div>
+  
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jinius&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jinius&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
