@@ -14,9 +14,6 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/>
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
-</a>
 </div>
 
 ## Tools
@@ -25,6 +22,13 @@
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=plastic&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-05032?style=plastic&logo=git&logoColor=white"/>
+</div>
+
+## Study
+<div>
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
+</a>
 </div>
   
 ## Stats
