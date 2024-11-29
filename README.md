@@ -10,8 +10,10 @@
 <img src="https://img.shields.io/badge/Java-57BCAD?style=plastic&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/gradle-02303A?style=plastic&logo=gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSP-F7DF1E?style=plastic&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MysQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/>
 </div>
